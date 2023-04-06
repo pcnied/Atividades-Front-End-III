@@ -1,4 +1,4 @@
-import { Produto } from '../src/types';
+import { Produto } from '../types';
 
 const listaProdutos: Produto[] = [];
 
