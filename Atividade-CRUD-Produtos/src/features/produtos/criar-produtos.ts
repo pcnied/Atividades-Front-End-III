@@ -14,3 +14,5 @@ function criarProduto(produto: Produto) {
 
 
 }
+
+export default criarProduto;
